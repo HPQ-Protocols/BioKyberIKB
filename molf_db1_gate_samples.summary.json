@@ -1,0 +1,123 @@
+{
+  "artifacts": {
+    "csv_rows": 18400,
+    "csv_sha256": "e6ca579c6f2d798f2129bac2753eb988e344456dfabcae00c9c69ae0fbf6cc96"
+  },
+  "biometric_model": "matcher-gated release of a sealed random BioSeed",
+  "by_sensor": {
+    "DB1_Lumidgm": {
+      "evaluation_identities": 800,
+      "failed_enrollments": 0,
+      "failure_to_enroll_rate": 0.0,
+      "false_accept_rate": 0.008,
+      "false_reject_rate": 0.0825,
+      "genuine_attempts": 2400,
+      "impostor_attempts": 16000,
+      "meets_targets": true,
+      "threshold": 19
+    }
+  },
+  "configuration": {
+    "bozorth3": "/home/ptkkhiem/nbis-install/bin/bozorth3",
+    "cache_dir": "molf_nbis_cache_db1",
+    "command_timeout": 120.0,
+    "development_subjects": 20,
+    "dry_run": false,
+    "enrollment_capture": 1,
+    "impostors_per_identity": 20,
+    "maximum_frr": 0.1,
+    "mindtct": "/home/ptkkhiem/nbis-install/bin/mindtct",
+    "minimum_impostor_attempts": 1000,
+    "molf_root": "MOLF",
+    "output": "molf_db1_gate_samples.csv",
+    "random_seed": 20260930,
+    "reuse_cache": false,
+    "self_test": false,
+    "sensors": [
+      "DB1_Lumidgm"
+    ],
+    "summary_output": "molf_db1_gate_samples.summary.json",
+    "target_far": 0.01
+  },
+  "counts": {
+    "evaluation_identities": 800,
+    "failure_to_enroll": 0,
+    "false_accepts": 128,
+    "genuine_attempts": 2400,
+    "impostor_attempts": 16000,
+    "rows": 18400,
+    "successful_genuine": 2202
+  },
+  "development_thresholds": {
+    "DB1_Lumidgm": {
+      "false_accept_rate": 0.00875,
+      "genuine_accept_rate": 0.94,
+      "genuine_attempts": 600,
+      "impostor_attempts": 4000,
+      "meets_target_far": true,
+      "threshold": 19
+    }
+  },
+  "paper_readiness": {
+    "every_sensor_meets_targets": true,
+    "meets_all_targets": true,
+    "status": "READY",
+    "targets": {
+      "maximum_failure_to_enroll_rate": 0.05,
+      "maximum_false_accept_rate": 0.01,
+      "maximum_false_reject_rate": 0.1,
+      "minimum_impostor_attempts": 1000
+    }
+  },
+  "rates": {
+    "failure_to_enroll_rate": 0.0,
+    "false_accept_rate": 0.008,
+    "false_reject_rate": 0.0825,
+    "genuine_accept_rate": 0.9175
+  },
+  "script_version": "1.0.0",
+  "secure_element": "software emulation only",
+  "timestamp_utc": "2026-10-02T02:36:17.844765+00:00",
+  "timing_ms_successful_genuine": {
+    "feature_ms": {
+      "max": 74.616227,
+      "mean": 35.21498687102634,
+      "median": 34.508134999999996,
+      "min": 28.539144,
+      "n": 2202,
+      "p95": 41.4315153
+    },
+    "gen_ms": {
+      "max": 71.122187,
+      "mean": 35.17124203269755,
+      "median": 34.500983,
+      "min": 29.125304000000003,
+      "n": 2202,
+      "p95": 41.119658
+    },
+    "match_ms": {
+      "max": 212.41004,
+      "mean": 9.309866127157129,
+      "median": 5.412107,
+      "min": 1.065855,
+      "n": 2202,
+      "p95": 27.357318449999973
+    },
+    "release_ms": {
+      "max": 0.079555,
+      "mean": 0.013002574931880109,
+      "median": 0.0126825,
+      "min": 0.004324,
+      "n": 2202,
+      "p95": 0.021382149999999996
+    },
+    "rep_ms": {
+      "max": 252.89172600000003,
+      "mean": 44.53785557311535,
+      "median": 41.255088,
+      "min": 30.8291,
+      "n": 2202,
+      "p95": 64.30536379999997
+    }
+  }
+}

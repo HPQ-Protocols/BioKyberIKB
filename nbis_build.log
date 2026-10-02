@@ -1,0 +1,390 @@
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/ijg'
+Start: Copying ijg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/ijg/src/lib/jpegb/*.h /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying ijg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/ijg'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png'
+Start: Copying png's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/png/src/lib/png/*.h /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying png's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Copying zlib's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/png/src/lib/zlib/*.h /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying zlib's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2'
+Start: Copying openjp2's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/mkdir: cannot create directory ‘/home/ptkkhiem/Rel_5.0.0/exports/include/openjp2’: File exists
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/*.h /home/ptkkhiem/Rel_5.0.0/exports/include/openjp2
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build/src/lib/openjp2/*.h /home/ptkkhiem/Rel_5.0.0/exports/include/openjp2
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis'
+Start: Copying commonnbis's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/commonnbis/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying commonnbis's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k'
+Start: Copying an2k's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/an2k/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying an2k's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/bozorth3'
+Start: Copying bozorth3's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/bozorth3/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying bozorth3's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/bozorth3'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools'
+Start: Copying imgtools's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/imgtools/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying imgtools's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/mindtct'
+Start: Copying mindtct's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/mindtct/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying mindtct's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/mindtct'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfseg'
+Start: Copying nfseg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/nfseg/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying nfseg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfseg'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfiq'
+Start: Copying nfiq's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/nfiq/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying nfiq's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfiq'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys'
+Start: Copying pcasys's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/pcasys/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying pcasys's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/ijg'
+Start: Copying ijg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/ijg/src/lib/jpegb/*.h /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying ijg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling ijg's libraries and binaries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/ijg/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/ijg/src/lib'
+Start: Compiling jpegb library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/ijg/src/lib/jpegb'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/ijg/src/lib/jpegb'
+End: Compiling jpegb library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/ijg/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/ijg/src'
+End: Compiling ijg libraries and binaries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/ijg'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png'
+Start: Copying png's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/png/src/lib/png/*.h /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying png's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Copying zlib's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/png/src/lib/zlib/*.h /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying zlib's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling png's libraries and binaries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png/src/lib'
+Start: Compiling zlib library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png/src/lib/zlib'
+cp ./libz.a /home/ptkkhiem/Rel_5.0.0/exports/lib
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png/src/lib/zlib'
+End: Compiling zlib library.
+Start: Compiling png library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png/src/lib/png'
+/usr/bin/cp ./libpng.a /home/ptkkhiem/Rel_5.0.0/exports/lib
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png/src/lib/png'
+End: Compiling png library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png/src'
+End: Compiling png libraries and binaries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2'
+Start: Copying openjp2's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/mkdir: cannot create directory ‘/home/ptkkhiem/Rel_5.0.0/exports/include/openjp2’: File exists
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/*.h /home/ptkkhiem/Rel_5.0.0/exports/include/openjp2
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build/src/lib/openjp2/*.h /home/ptkkhiem/Rel_5.0.0/exports/include/openjp2
+Start: Compiling openjp2's libraries and binaries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src'
+Start: Compiling openjp2 library....
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 14%] Built target openjp2
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 15%] Built target t1_generate_luts
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 27%] Built target z
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 40%] Built target png
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 68%] Built target tiff
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 85%] Built target lcms2
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 90%] Built target opj_decompress
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[ 95%] Built target opj_compress
+make[5]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[5]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+[100%] Built target opj_dump
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src/lib/openjp2/build'
+End: Compiling openjp2 library.
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src'
+End: Compiling openjp2 libraries and binaries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis'
+Start: Copying commonnbis's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/commonnbis/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying commonnbis's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling commonnbis's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib'
+Start: Compiling cblas library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/cblas'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/cblas'
+End: Compiling cblas library.
+Start: Compiling clapck library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/clapck'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/clapck'
+End: Compiling clapck library.
+Start: Compiling f2c library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/f2c'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/f2c'
+End: Compiling f2c library.
+Start: Compiling fet library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/fet'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/fet'
+End: Compiling fet library.
+Start: Compiling fft library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/fft'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/fft'
+End: Compiling fft library.
+Start: Compiling ioutil library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/ioutil'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/ioutil'
+End: Compiling ioutil library.
+Start: Compiling util library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/util'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib/util'
+End: Compiling util library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src'
+End: Compiling commonnbis libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k'
+Start: Copying an2k's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/an2k/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying an2k's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling an2k's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/lib'
+Start: Compiling an2k library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/lib/an2k'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/lib/an2k'
+End: Compiling an2k library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src'
+End: Compiling an2k libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/bozorth3'
+Start: Copying bozorth3's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/bozorth3/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying bozorth3's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling bozorth3's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/bozorth3/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/bozorth3/src/lib'
+Start: Compiling bozorth3 library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/bozorth3/src/lib/bozorth3'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/bozorth3/src/lib/bozorth3'
+End: Compiling bozorth3 library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/bozorth3/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/bozorth3/src'
+End: Compiling bozorth3 libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/bozorth3'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools'
+Start: Copying imgtools's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/imgtools/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying imgtools's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling imgtools's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib'
+Start: Compiling ihead library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/ihead'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/ihead'
+End: Compiling ihead library.
+Start: Compiling image library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/image'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/image'
+End: Compiling image library.
+Start: Compiling jpegl library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/jpegl'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/jpegl'
+End: Compiling jpegl library.
+Start: Compiling wsq library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/wsq'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib/wsq'
+End: Compiling wsq library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools/src'
+End: Compiling imgtools libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/imgtools'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/mindtct'
+Start: Copying mindtct's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/mindtct/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying mindtct's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling mindtct's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/mindtct/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/mindtct/src/lib'
+Start: Compiling mindtct library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/mindtct/src/lib/mindtct'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/mindtct/src/lib/mindtct'
+End: Compiling mindtct library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/mindtct/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/mindtct/src'
+End: Compiling mindtct libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/mindtct'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfseg'
+Start: Copying nfseg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/nfseg/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying nfseg's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling nfseg's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfseg/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfseg/src/lib'
+Start: Compiling nfseg library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfseg/src/lib/nfseg'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfseg/src/lib/nfseg'
+End: Compiling nfseg library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfseg/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfseg/src'
+End: Compiling nfseg libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfseg'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfiq'
+Start: Copying nfiq's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/nfiq/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying nfiq's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling nfiq's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfiq/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfiq/src/lib'
+Start: Compiling nfiq library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/nfiq/src/lib/nfiq'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfiq/src/lib/nfiq'
+End: Compiling nfiq library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfiq/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfiq/src'
+End: Compiling nfiq libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/nfiq'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys'
+Start: Copying pcasys's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include"....
+/usr/bin/cp -Rpf /home/ptkkhiem/Rel_5.0.0/pcasys/include/* /home/ptkkhiem/Rel_5.0.0/exports/include
+End: Copying pcasys's header files to "/home/ptkkhiem/Rel_5.0.0/exports/include".
+Start: Compiling pcasys's libraries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib'
+Start: Compiling mlp library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib/mlp'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib/mlp'
+End: Compiling mlp library.
+Start: Compiling pca library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib/pca'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib/pca'
+End: Compiling pca library.
+Start: Compiling pcautil library....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib/pcautil'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib/pcautil'
+End: Compiling pcautil library.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src/lib'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys/src'
+End: Compiling pcasys libraries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/pcasys'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/ijg'
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/ijg'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/png'
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/png'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2'
+Start: Compiling openjp2's binaries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/buildutil'
+make[3]: Nothing to be done for 'bin'.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/buildutil'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2/src'
+End: Compiling openjp2's binaries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/openjp2'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis'
+Start: Compiling commonnbis's binaries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/bin'
+make[3]: Nothing to be done for 'bins'.
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src/bin'
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis/src'
+End: Compiling commonnbis's binaries.
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/commonnbis'
+make[1]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k'
+Start: Compiling an2k's binaries....
+make[2]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src'
+make[3]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin'
+Start: Compiling an2k2iaf binary....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/an2k2iaf'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/an2k2iaf'
+End: Compiling an2k2iaf binary.
+Start: Compiling an2k2txt binary....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/an2k2txt'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/an2k2txt'
+End: Compiling an2k2txt binary.
+Start: Compiling an2ktool binary....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/an2ktool'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/an2ktool'
+End: Compiling an2ktool binary.
+Start: Compiling chkan2k binary....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/chkan2k'
+/usr/bin/gcc -m64 -fPIC /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/chkan2k/chkan2k.o /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/chkan2k/config.o /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/chkan2k/logger.o /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/chkan2k/chkfile.o /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/chkan2k/combos.o /home/ptkkhiem/Rel_5.0.0/exports/lib/liban2k.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libimage.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libihead.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libwsq.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libjpegl.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libjpegb.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libfet.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libioutil.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libutil.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libopenjp2.a  /home/ptkkhiem/Rel_5.0.0/exports/lib/libpng.a /home/ptkkhiem/Rel_5.0.0/exports/lib/libz.a -lm -o /home/ptkkhiem/Rel_5.0.0/an2k/bin/chkan2k
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/chkan2k'
+End: Compiling chkan2k binary.
+Start: Compiling cropcoeff binary....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/cropcoeff'
+make[4]: Nothing to be done for 'it'.
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/cropcoeff'
+End: Compiling cropcoeff binary.
+Start: Compiling histogen binary....
+make[4]: Entering directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/histogen'
+/usr/bin/gcc -m64 -fPIC /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/histogen/histogen.o /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/histogen/chkfile.o   -o /home/ptkkhiem/Rel_5.0.0/an2k/bin/histogen
+/usr/bin/ld: /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/histogen/chkfile.o:(.bss+0x6c8): multiple definition of `histo_head'; /home/ptkkhiem/Rel_5.0.0/an2k/obj/src/bin/histogen/histogen.o:(.bss+0x218): first defined here
+collect2: error: ld returned 1 exit status
+make[4]: *** [/home/ptkkhiem/Rel_5.0.0/buildutil/bin.mak:68: /home/ptkkhiem/Rel_5.0.0/an2k/bin/histogen] Error 1
+make[4]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin/histogen'
+make[3]: *** [/home/ptkkhiem/Rel_5.0.0/buildutil/an2k_bins.mak:46: bins] Error 1
+make[3]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src/bin'
+make[2]: *** [/home/ptkkhiem/Rel_5.0.0/buildutil/src.mak:52: bins] Error 1
+make[2]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k/src'
+make[1]: *** [/home/ptkkhiem/Rel_5.0.0/buildutil/package.mak:211: bins] Error 1
+make[1]: Leaving directory '/home/ptkkhiem/Rel_5.0.0/an2k'
+make: *** [Makefile:152: it] Error 1
