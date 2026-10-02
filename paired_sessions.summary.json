@@ -1,0 +1,129 @@
+{
+  "timestamp_utc": "2026-10-02T07:05:01.577794+00:00",
+  "source_sha256": "e6ca579c6f2d798f2129bac2753eb988e344456dfabcae00c9c69ae0fbf6cc96",
+  "configuration": {
+    "molf_root": "/home/ptkkhiem/MOLF",
+    "samples_csv": "/home/ptkkhiem/molf_db1_gate_samples.csv",
+    "samples_summary": "/home/ptkkhiem/molf_db1_gate_samples.summary.json",
+    "mindtct": "/home/ptkkhiem/nbis-install/bin/mindtct",
+    "bozorth3": "/home/ptkkhiem/nbis-install/bin/bozorth3",
+    "runs": 5000,
+    "warmup": 200,
+    "seed": 20261002,
+    "timeout": 120,
+    "output_dir": "results/paired-seed"
+  },
+  "environment": {
+    "timestamp_utc": "2026-10-02T07:05:01.578145+00:00",
+    "script_version": "1.5.1",
+    "command": [
+      "Paired_Seed_Experiment.py",
+      "--molf-root",
+      "/home/ptkkhiem/MOLF",
+      "--samples-csv",
+      "/home/ptkkhiem/molf_db1_gate_samples.csv",
+      "--samples-summary",
+      "/home/ptkkhiem/molf_db1_gate_samples.summary.json",
+      "--mindtct",
+      "/home/ptkkhiem/nbis-install/bin/mindtct",
+      "--bozorth3",
+      "/home/ptkkhiem/nbis-install/bin/bozorth3",
+      "--runs",
+      "5000",
+      "--warmup",
+      "200",
+      "--output-dir",
+      "results/paired-seed"
+    ],
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "machine": "x86_64",
+    "processor": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+    "logical_cpu_count": 8,
+    "liboqs_python_version": "0.15.0",
+    "cryptography_version": "48.0.0",
+    "numpy_version": "2.4.1",
+    "pandas_version": "2.3.3",
+    "oqs_python_runtime_version": "0.15.0",
+    "liboqs_runtime_version": "0.15.0",
+    "config": {
+      "runs": 5000,
+      "warmup": 200,
+      "correctness_runs": 100,
+      "kem_name": "ML-KEM-768",
+      "signature_name": "ML-DSA-65",
+      "output_dir": "results/paired-seed",
+      "fe_samples_csv": null,
+      "require_fe": false,
+      "random_seed": 20261002,
+      "no_plots": true
+    },
+    "measurement_scope": "Both endpoint cryptographic computations; cached authenticated credentials; no certificate parsing, socket I/O, or real secure element.",
+    "network_scenarios": [
+      {
+        "name": "LAN model",
+        "bandwidth_mbps": 1000.0,
+        "rtt_ms": 1.0
+      },
+      {
+        "name": "WAN model",
+        "bandwidth_mbps": 25.0,
+        "rtt_ms": 40.0
+      },
+      {
+        "name": "Constrained-link model",
+        "bandwidth_mbps": 0.05,
+        "rtt_ms": 600.0
+      }
+    ]
+  },
+  "scope": "Integrated software NBIS gate plus both cryptographic endpoints; no live capture, PAD, hardware, channel acceptance notification, or sockets",
+  "models": {
+    "derive": "Fresh identity/context seed HKDF inside every accepted session",
+    "stored": "Enrollment-derived seed retained; identical gate, key regeneration, public-key check, transcript, confirmation, and traffic KDF"
+  },
+  "summary": {
+    "derive": {
+      "attempts": 5000,
+      "accepted": 639,
+      "all_attempt_mean_ms": 39.96703724539999,
+      "accepted_mean_ms": 47.13331460876369,
+      "accepted_median_ms": 43.982812,
+      "accepted_p95_ms": 67.2806368,
+      "by_attempt_type": {
+        "genuine": {
+          "attempts": 648,
+          "accepted": 601
+        },
+        "impostor": {
+          "attempts": 4352,
+          "accepted": 38
+        }
+      }
+    },
+    "stored": {
+      "attempts": 5000,
+      "accepted": 639,
+      "all_attempt_mean_ms": 40.074534993600004,
+      "accepted_mean_ms": 47.331761647887326,
+      "accepted_median_ms": 43.848424,
+      "accepted_p95_ms": 67.29532060000003,
+      "by_attempt_type": {
+        "genuine": {
+          "attempts": 648,
+          "accepted": 601
+        },
+        "impostor": {
+          "attempts": 4352,
+          "accepted": 38
+        }
+      }
+    },
+    "paired_successful_delta_derive_minus_stored": {
+      "n": 639,
+      "mean_ms": -0.19844703912363065,
+      "median_ms": 0.03753100000000131,
+      "scope": "Descriptive paired difference; repeated attempts are not independent subjects"
+    }
+  }
+}
